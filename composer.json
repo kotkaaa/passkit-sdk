@@ -1,5 +1,5 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "kotkaaa/passkit-sdk",
     "description": "",
     "keywords": [
         "swagger",
@@ -11,7 +11,7 @@
     "license": "proprietary",
     "authors": [
         {
-            "name": "Swagger and contributors",
+            "name": "Kotkaaa",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
         }
     ],
